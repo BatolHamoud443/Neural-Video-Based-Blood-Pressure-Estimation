@@ -3,7 +3,7 @@
 
 ```Python3 | TensorFlow | LSTM | CNNs```
 
-## Required Packages
+## 📦 Required Packages
 
 ```
 numpy == 1.21.6
@@ -53,7 +53,7 @@ I’ll be happy to share them upon request.
 ## 🤝 Contributing
 If you find a bug or have a suggestion for improvement, feel free to open an issue or submit a pull request. Contributions are always welcome.
 
-##📜 Citation
+## 📜 Citation
 If you found our work interesting, please cite it as:
 ```
 @Article{s23041753,
