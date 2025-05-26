@@ -30,16 +30,25 @@ Our study introduces a novel method for estimating **systolic and diastolic bloo
 - Hybrid deep learning models combining **CNN** and **LSTM** components
 
 ## 📁 Repository Structure
-
-blood-pressure-estimation/
+```text
+Video-Based Blood Pressure Estimation/
 │
-├── models/ # Deep learning models
 ├── Train.ipynb # Script for training models
 ├── Test.ipynb # Script for evaluating trained models
 ├── Automatic prediction - models.ipynb #Script to test your video to check BP values. It shows the preprrocessing steps and framework used to obtain ROIs.
 ├── Automatic prediction - combintations.ipynb #The same function of the previous repository with using combinations of the trained models to get better accuracy. (Check the article)
 ├── requirements.txt # Required Python packages
 └── README.md # Project documentation
+```
+
+> ⚠️ **Note:** The trained models are not included in this repository due to file size limitations.
+
+If you are interested in reproducing the results or using the pretrained models for research purposes, please contact me at:
+
+📧 **[bkhamud@itmo.ru]**
+
+I’ll be happy to share them upon request.
+
 
 ## 🤝 Contributing
 If you find a bug or have a suggestion for improvement, feel free to open an issue or submit a pull request. Contributions are always welcome.
