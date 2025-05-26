@@ -41,7 +41,7 @@ blood-pressure-estimation/
 ├── requirements.txt # Required Python packages
 └── README.md # Project documentation
 
-##🤝 Contributing
+## 🤝 Contributing
 If you find a bug or have a suggestion for improvement, feel free to open an issue or submit a pull request. Contributions are always welcome.
 
 ##📜 Citation
